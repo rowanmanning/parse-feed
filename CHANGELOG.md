@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.5](https://github.com/rowanmanning/feed-parser/compare/v2.1.4...v2.1.5) (2026-09-09)
+
+
+### Bug Fixes
+
+* add Node.js 26 support ([0da0165](https://github.com/rowanmanning/feed-parser/commit/0da016568de9bcbb154873401798682699510f67))
+
 ## [2.1.4](https://github.com/rowanmanning/feed-parser/compare/v2.1.3...v2.1.4) (2026-07-21)
 
 
